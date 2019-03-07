@@ -1,4 +1,5 @@
 ## 目录(Contents)
 
-- [01. Redis开发与运维](notes/JavaConcurrencyInPractice/SUMMARY.md)
-- [02. Java并发编程实战](notes/JavaConcurrencyInPractice/SUMMARY.md)
+- [01. RedisDevOps](notes/RedisDevOps/SUMMARY.md)
+- [02. JavaConcurrencyInPractice](notes/JavaConcurrencyInPractice/SUMMARY.md)
+
