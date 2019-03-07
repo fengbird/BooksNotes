@@ -1,7 +1,3 @@
----
-typora-root-url: ../images
----
-
 ## 第2章 API的理解和使用
 
 ### 全局命令
@@ -57,7 +53,7 @@ typora-root-url: ../images
   object encoding key
   ```
 
-  ![](/数据结构内部编码实现.png)
+  ![](../images/数据结构内部编码实现.png)
 
 ### 单线程架构
 

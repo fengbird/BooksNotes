@@ -1,7 +1,3 @@
----
-typora-root-url: ../images
----
-
 ## 第1章 初识Redis
 
 #### Redis定义
